@@ -454,6 +454,12 @@
         font-size: 3vw;
     }
 
+    }
 
-    
+    /*Animaciones*/
+
+    .headerIndex__titulo{
+        animation: heartBeat;
+        animation-duration: 2s;
+        animation-iteration-count: infinite;
     }
